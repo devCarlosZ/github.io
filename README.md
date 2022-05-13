@@ -1,4 +1,4 @@
 # github.io
 CodeCademy Excercise
 <br>
-Deployed Githup page website.
+Deployed Github page website.
